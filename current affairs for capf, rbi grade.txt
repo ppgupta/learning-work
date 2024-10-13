@@ -376,7 +376,7 @@ ROOFTOP solarization and muft bijli in budget 2024- 300 units per year
 4  AIM-174B – US Navy Readies ‘Double Ranged’ Air-To-Air Missile That Can Hunt PLAAF Aircraft From 400 KM.
 5- 'Virupaksha' is radar for Sukhoi aircraft of IAF
 6- 'Dumbur Dam', is located in Tripura state , made on Gumti river?
-7- INS  Arighat - ballistc nuclear submarine
+7- INS  Arighat - ballistc nuclear submarine , under project 75 alpha
 
 8- Dhordo became best tourism village by UNWTO(united nation world tourism organisation)
 
@@ -386,8 +386,11 @@ ROOFTOP solarization and muft bijli in budget 2024- 300 units per year
 10- Ritu Kharidwal was leading lady behind chandrayan-3 mission.
 
 11- In Asian games 2023 two games were newly added  e-sports and breakdance.
+12- RBI governor launched Unified Lending Interface
+13 Govt Approves BioE3(Biotechnology for economy , environment and employment) Policy to Propel High-Performance Biomanufacturing in India
 
 Total 8 Pm has been given Bharat Ratna and 6 President Has been given Bharat Ratna
+
  
 // September 2024  Current Affairs
 
@@ -396,6 +399,50 @@ Total 8 Pm has been given Bharat Ratna and 6 President Has been given Bharat Rat
 3. Exercise eastern bridge 7 , Iaf and air force of Oman , held at Masirah, Oman
 4. Space Force of Usa and india will make national semiconductor security plant in india.
 5. Port Blair renamed as 'Sri Vijaya Puram'
+6. India ranked 3rd in Asia power index. , India has moved up to the 39th position among 133 economies in the Global Innovation Index (GII) 2024 , published by word intellectual property
+7. claudia Sheinbaum recently became first women president of Mexico.
+8. India foreign minister visit SCO meet 2024 in Pakistan.
+9. 11 classical languages in india , 6 languages - Tamil telugu Sanskrit Malayalam kannada odia , 5 new languages added in 2024 - marathi  Bengali pali prakrit and assamese
+10 BharatGen , a pioneering initiative in generative AI.
+11 African Country Rwanda declared outbreak of Marburg virus
+12 Super typhoon Krathon hit phillipines and Taiwan
+13 India ranks 39TH in Global innovation index 2024
+14  Recently, France hosts world's largest naval defence exhibition 'EURONAVAL 2024.
+15  The Maharashtra government has granted 'Rajyamata-Gomata' status to indigenous breeds of cows in the state.
+16  Mount Erebus, Antarctica's tallest and southernmost active volcano, emits microscopic gold particles into the atmosphere: 
+17  India joined US led Mineral security Network
+18 Finance Minister is the ex-officio Governor on the Board of Governors of the IMF. RBI Governor is the Alternate Governor at the IMF.
+19 The United States has recently announced a significant military aid package for Taiwan. This package, valued at $567 million, is aimed at bolstering Taiwan’s defense capabilities amid increasing political and military pressure from China.
+20  Vishakapatnamis among the top seafood exporting port of India in terms of dollar value.
+21  Shankh Air gets Civil Aviation Ministry nod to take off , Shankh Aviation is led by entrepreneur and chairman Shravan Kumar Vishwakarma
+22 Aruna Kumara Dissanayake new president of Srilanka
+23 China fired ICBM in pacific Ocean.
+24 Iran unveils all new and powerful suicide drone ‘Shahed-136B’
+25 Exchange control Manual by RBI
+26 Prime Minister Narendra Modi recently inaugurated three PARAM Rudra Supercomputers worth ₹130 crore under the National Supercomputing Mission (NSM).
+   These indigenously developed supercomputers, deployed in Pune, Delhi, and Kolkata, will drive advanced research in physics, cosmology, earth sciences, and other scientific fields. The Giant Metre Radio Telescope (GMRT) in Pune, Inter-University Accelerator Centre (IUAC) in Delhi, and S.N. Bose Centre in Kolkata will utilize these systems for cutting-edge research, enhancing India’s scientific capabilities.
+27. Basmati Rice is the largest in terms of export value.
+28 India's first paperless election happened in Madhya Pradesh for sarpanch election by state election commission.
+29 India pledges 47.4 Crore for construction of 12 impactful projects in Nepal.
+30 china launched smart dragon-3 rocket launching 8 satelites.
+31 India and Uzbekistan signed Bilateral Investment treaty to ensure protection of investors
+33 Exercise Silent Shark is a biennial anti-submarine warfare exercise between the US and South Korean navies. 
+34 India has signed a new contract to import 73,000 SiG Sauer SiG-716 assault rifles from the US
+35 Australia implemented right to disconnect , France was first country to implement right to disconnect.
+36 Lupex mission - joint venture of isro(india) and JAXA(Japan) ,
+-Primary Goal: To explore the moon’s southern polar region, investigating the presence of water and other elements, potentially in the form of surface ice.
+-It will features both a lander and a rover. JAXA is responsible for developing and operating the rover, and ISRO for developing and operating the lander that will carry the rover.
+
+37 India is building 12 new industrial smart cities at an estimated cost of Rs 28,602 crore: 
+38- India Maldives sign 400 million dollar agreement
+
+
+
+
+
+
+
+
 
 
 ********************** RESERVE BANK OF INDIA   ************************
@@ -414,7 +461,7 @@ Banks are also required to maintain a portion of their demand and time liabiliti
 
 
 *  how is local area bank different from Urban Cooperative Bank?
-Local Area Banks (LABs):v
+Local Area Banks (LABs):
 
 tehy are small, privately owned banks.
 They operate as for-profit entities with a limited geographic scope, typically covering three contiguous districts.
@@ -428,7 +475,7 @@ They operate on a cooperative model, where each member has a vote regardless of 
 
   both scheduled and unscheduled bank are subject to banking regulations act 1949.
   Scheduled banks have access to various low credit facilities from RBI(Like MSF) for their normal banking requirements.
-  UnScheduled banks are not entittled to  borrow from RBI for normal banking requirements except for abnormal circumstances.
+  Unscheduled banks are not entitled to  borrow from RBI for normal banking requirements except for abnormal circumstances.
 
 
 * What is NEER and REER? with analogy
@@ -520,6 +567,48 @@ Commercial paper and commercial bills are both short-term financial instruments 
 
 ### Summary:
 - **Commercial paper** is an unsecured instrument for raising short-term funds, typically issued by large corporations, while **commercial bills** are used in trade finance, often secured by goods or credit agreements.
+
+
+/////////////// Static GK  RRB
+
+1. Special Drawing Rights (SDRs) are often referred to as "paper gold".
+2. population growth in india decline from 21.54% in 2001 to 17.64% in 2011
+3.Japan parliament is known as Diet.
+4. A foreign policy of India- IK Gujral , 
+ Wings of air - APJ Abdul kalam ,
+ Glimpses of world History -Jawaharlal nehru , 
+ The Indian War of Independence is an Indian nationalist history of the 1857 revolt by Vinayak Damodar Savarkar that was first published in 1909.
+
+5. A hygrometer is the instrument used to measure humidity, or the amount of water vapor in the air.
+6. Ernst Ruska, a German electrical engineer, invented the electron microscope in 1931. 
+7. Kidney stones consist mostly of 'calcium oxalate'.
+8. 'Cotopaxi' is one of the highest active volcanoes in the world, located in the Andes Mountains of Ecuador.
+9. The difference between IST (Indian Standard Time) and GMT (Greenwich Mean Time) is 5 hours and 30 minutes. IST is GMT +5:30.
+10. Jatin das died in jail due to hunger strike in Lahore jail
+11  The Mahalanobis model was the economic development model that guided India's second five-year plan (1956-1961).
+12 The Vijay Stambha, or Tower of Victory, is located in Chittor Fort in Chittorgarh, Rajasthan, India. The tower is a monument to the victory of the Rajput king Rana Kumbha of Mewar over the combined armies of Malwa and Gujarat in the Battle of Sarangpur.
+13. One of the main objectives of the Fifth Five-Year Plan was to eradicate poverty and attain self-reliance. For this goal, the government under Indira Gandhi came up with the slogan 'Garibi Hatao'.
+14. Misch metal(cerium , lanthanum , neodynium) is widely used in the manufacture of cigarette lighters.
+15 Lymphocytes, a type of white blood cell, are formed in the bone marrow and thymus, which are called primary lymphoid organs:
+16. Popular dance forms of Arunachal Pradesh-  Ponung Dance , Buiya Dance , Wancho Dance , Rikhampada Dance , Pasi Kongki Dance
+                                     Chalo Dance ,Popir Dance, Lion and Peacock Dance ,Aji Lhamu Dance ,Rekham Pada Dance
+17 The most abundant dissolved ions in the ocean are chloride and sodium
+18 The Battle of Haifa was a decisive battle fought on 23 September 1918,, where the elements consisting mainly of Indian troops of the British Army engaged and defeated the forces of the Ottoman Empire and their German allies.
+19 Molten salts are a common storage medium for high-temperature solar thermal energy because they can store thermal energy at temperatures ranging from 200°C to beyond 500°C. This process is known as molten salt energy storage (MSES) or molten-salt technology.
+20 The first transgenic plant to be produced it Tobbaco. 
+21 The International Development Association (IDA) is known as the "soft loan window" of the World Bank
+22 NAFED is the apex body in cooperative sector and deals in procurement , distribution, export and import of selected agricultural commodities.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
