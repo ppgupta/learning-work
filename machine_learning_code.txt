@@ -840,6 +840,7 @@ clf.fit(X_train, y_train)
 
 
 ***********************Convolutional Neural Network ************************
+Convolution operation: explore feature detectors, feature maps, Rectified Linear Unit (ReLU) layer and dive into linearity functions in the context of CNNs
 
 what is softmax and cross entropy function in convolutional neural network? : The softmax function converts raw output scores (also called logits) from the network into probabilities. Each output value is scaled between 0 and 1, and all outputs sum to 1, making them interpretable as probabilities of the respective classes.
 Purpose in CNNs
@@ -877,6 +878,9 @@ from sklearn.metrics import confusion_matrix, accuracy_score
 from sklearn.xgboost import XGBClassifier
 classifier=XGBClassifier()
 classifier.fit(X_train,y_train)
+
+***********************Grid Search  implementation in python ************************
+
 
 
 
