@@ -1,7 +1,62 @@
 1 what is wrapper class?
-2 @Transaction annotation
+In Java, a wrapper class is an object that encapsulates or "wraps" a primitive data type (like int, char, etc.) into an object.
+-Collections: Java collections, like ArrayList and HashMap, only work with objects, not primitives. So, wrapper classes allow us to store primitive 
+values in collections.
+
+2 @Transaction annotation : The @Transaction annotation is typically used in Java frameworks like Spring to manage database transactions. 
+It indicates that the method or class it's applied to should run within a transaction context, meaning that all the database operations within that method 
+are part of a single, unified transaction.
+
+Example: A bank transaction operation , if account is debited from one account but could not be transfered to other account(exception occurs) then entire 
+transaction will ve reverted if @Transaction annotation is used.
+
+
+
 3. DIfference between @Component and @Bean
+In Spring, @Component and @Bean are both used to define beans (objects managed by the Spring container), but they differ in where and how they are used.
+@Component is used at class level to automatically detect and register beans by scanning classpath.
+
+
+@Bean is used to explicitly declare a single bean in a configuration class. it is used at method inside a class annotated with @Configuration
 4. Sprint security , jwt
+-A JWT is divided into three parts:
+Header: Contains metadata, typically specifying the type of token (JWT) and the hashing algorithm (e.g., HS256).
+Payload: Contains the claims or data being transmitted, such as user information, expiration time, and issuer.
+Signature: Verifies that the token was not altered. It’s created by encoding the header and payload and then signing it with a secret key or private key.
+
+How do JWTs work in authentication?
+Answer: In authentication, a server generates a JWT upon successful login, encoding user information and other claims.
+-The JWT is then returned to the client, which stores it (usually in local storage or cookies).
+-For each subsequent request, the client sends the JWT in the Authorization header.
+-The server verifies the token, and if valid, allows access to protected resources.
+
+1) Create JWT Utility Class
+
+2) Implement Authentication Filter
+- Create a filter that intercepts requests and validates the JWT in the Authorization header.
+
+3) Configure Security with JWT Filter
+- Create a configuration class to enable Spring Security, disable sessions, and integrate the JWT filter.
+
+
+how JWT is implemented in rest api in java spring boot?
+
+
+*Authentication: JWTs are issued upon login and used to authenticate users for subsequent requests.
+*Authorization: JWTs carry role-based or permission claims to authorize users to specific resources.
+
+what annotations are used in spring security? 
+@EnableWebSecurity
+@Configuration
+@Secured
+@PreAuthorize -- Description: Checks the given expression before entering the method
+@PostAuthorize--Description: Checks the given expression after the method has been executed.
+@PreFilter and @PostFilter -- Description: Filters collections or arrays before or after the method invocation.
+
+@EnableGlobalMethodSecurity -- Description: Enables method security at a global level
+
+
+
 5. SOLID Principles 
 The SOLID principles are a set of five design principles that help software developers create more maintainable and scalable software systems. Each principle focuses on a different aspect of software design, promoting flexibility, readability, and ease of maintenance. Here's a simple overview of each principle:
 
@@ -46,8 +101,7 @@ The SOLID principles are a set of five design principles that help software deve
 **Example**: Instead of directly instantiating a database connection in a service class, inject a `DatabaseConnection` interface or abstract class that the service depends on.
 
 ### Benefits of SOLID Principles:
-
-- **Maintainability**: Easier to understand, extend, and modify code without unintended side effects.
+- **Maintainability**: Easier to -understand, extend, and modify code without unintended side effects.
 - **Scalability**: Supports the growth of software systems by making them more adaptable to new requirements.
 - **Readability**: Enhances code clarity and reduces complexity, improving collaboration among developers.
 - **Testability**: Facilitates unit testing and integration testing by promoting loose coupling and dependency management.
@@ -55,34 +109,55 @@ The SOLID principles are a set of five design principles that help software deve
 By applying these principles, developers can create software that is more robust, adaptable, and maintainable over its lifecycle.
 
 6. Collection framework ,List , difference between hashmap and hashtable
+-A HashMap in Java is a data structure that stores data in key-value pairs and allows for fast access, insertion, and deletion. Internally, it uses an array of
+ linked lists (or a combination of arrays and trees, for performance) to store entries.
+-Keys are hashed to find an array index.
+-Values are stored at the calculated index, with linked lists or trees handling collisions.
+-If there’s a collision, the new entry is added to this linked list, keeping all values for that index together. When retrieving, HashMap will search through the list to find the exact match for the key.
+
 
 7. builder design pattern
 
 8. what is serialization and deserialization?
+Serialization is a process of converting Java object into Byte stream.
 
 9. jdbc and spring jpa , hibernate
 
 10. DIfference between @RestControler and @Controller
 
-11. what is metaspace and perm gen
+@RestControler merges annotation @Controller and @ResponseBody
 
-12.what annotations are used in spring security? 
-@EnableWebSecurity
-@Configuration
-@Secured
-@PreAuthorize -- Description: Checks the given expression before entering the method
-@PostAuthorize--Description: Checks the given expression after the method has been executed.
-@PreFilter and @PostFilter -- Description: Filters collections or arrays before or after the method invocation.
+11. what is metaspace and perm gen?
+In Java, Metaspace and PermGen (Permanent Generation) are two memory areas in the Java Virtual Machine (JVM) used to store class metadata, method information,
+ and other details related to Java classes.
+ PermGen is part of jvm heap space , used till java 7 versions ,it has fixed maximum size and causes risk of outofmemory error.
+-Metaspace replaced perm Gen from java 8 , unlike perm Gen metaspace doesn't have upper limit of memory hence can grow dynamically based on needs of the 
+ application.
+ -Unused class metadata is removed from Metaspace by garbage collection, freeing memory as classes are unloaded.
+ -Since it is not part of the heap and has a flexible size, Metaspace reduces the risk of OutOfMemoryError due to class metadata and is better suited for applications that load a large number of classes.
 
-@EnableGlobalMethodSecurity -- Description: Enables method security at a global level
 
+
+12.
 13) ddos attack and csrf attack and how to mitigate them
+ DDOS(Distributed Denial of Service Attack): A DDOS attack is an attempt to overwhelm a server, network, or service with a massive amount of traffic, 
+ rendering it unable to respond to legitimate requests and causing it to slow down or crash. This is done by coordinating many different devices to send 
+ requests to the target at the same time.
+ 
+ CSRF(cross site request forgery) attack: A CSRF (Cross-Site Request Forgery) attack tricks a user into unknowingly performing actions on a website where
+ they’re already authenticated, typically by clicking a malicious link. The attacker exploits the trust that a website has in the user's browser, using their
+ active session to make unauthorized requests on their behalf.
+
+
 
 14) kafka and eureka server
 
 kafka is publish subscribe based durable messaging system , exchanging data between process, application and servers
 
 15) Types of garbage collectors
+
+- Serial Garbage collector : Single thread
+- Parralel Garbage collector : multiple threads
 
 16) advantage of webclients over rest template - rest template is synchronous and webclient is asynchronous
 
@@ -147,6 +222,56 @@ List<String> names = Arrays.asList("Alice", "Bob", "Charlie");
    without using any built in functions or Utlities methods
  
 ------------------------------------------------------
-Write snippets for Full Microservices to implement GET, PUT and PATCH method
+19 Write snippets for Full Microservices to implement GET, PUT and PATCH method
+
+20 Why Spring Boot over Spring?
+ Spring Boot simplifies Spring-based applications by eliminating XML configurations, offering embedded servers, and providing ready-to-use configurations,
+ making development faster and more efficient.
+21) Can I use 3 annotations instead of @SpringBootApplication? Yes, you can use @Configuration, @EnableAutoConfiguration, and @ComponentScan.
+
+22) Auto-configuration in Spring Boot. Automatically configures beans based on dependencies found on the classpath. Disable a specific auto-configuration class.
+ Use @EnableAutoConfiguration(exclude = {DataSourceAutoConfiguration.class}).
+23) Customize the default configuration. Override properties in application.properties or application.yml.
+
+24) How run() method works internally? Calls the SpringApplication.run() to bootstrap the application, setting up context and auto-configuration.
+
+25)Purpose of Stereotype annotations in Spring. @Component, @Service, @Repository, and @Controller indicate Spring-managed components with specific roles.
+26)CommandLineRunner in Spring Boot. Interface for running code after the application startup.
+
+27) What is Dependency Injection? Design pattern where dependencies are injected by the framework, increasing testability.
+
+28)Choosing setter vs constructor injection. Constructor for mandatory dependencies, setter for optional ones.Dynamically load values in Spring Boot. Use @Value or @ConfigurationProperties.
+
+29)Dynamically load values in Spring Boot. Use @Value or @ConfigurationProperties.
+
+30)Differences between YAML and properties files. YAML allows hierarchical data, ideal for complex configurations; properties are key-value pairs.
+31) Map config properties to a Java object. Use @ConfigurationProperties.
+
+32) Difference between @PathVariable and @RequestParam. @PathVariable is part of the URL path, while @RequestParam is a query parameter.
+
+33)@RestController vs @Controller. @RestController combines @Controller and @ResponseBody for JSON responses.
+
+34) Enable cross-origin requests. Use @CrossOrigin annotation.
+
+35) Upload a file in Spring. Use @RequestParam("file") MultipartFile.
+
+36)Document REST API. Use Swagger or OpenAPI.
+
+37) Consume RESTful API. Use RestTemplate or WebClient. Handle exceptions. Use @ControllerAdvice and @ExceptionHandler.Avoid multiple exception handlers.
+ Create a global exception handler with @ControllerAdvice.
+38) Validate/sanitize input payload. Use @Valid with @RequestBody.
+
+39)What is AOP? Aspect-Oriented Programming adds cross-cutting concerns like logging.
+
+40
+
+
+
+
+
+
+
+
+
 
 
