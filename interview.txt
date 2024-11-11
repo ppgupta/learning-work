@@ -263,7 +263,82 @@ List<String> names = Arrays.asList("Alice", "Bob", "Charlie");
 
 39)What is AOP? Aspect-Oriented Programming adds cross-cutting concerns like logging.
 
-40
+40) Success Code values: 201 Created: The request was successful, and the server created a new resource. 
+
+    202 Accepted: The request was accepted for processing, but the processing hasn't been completed. 
+    204 No Content: The request was successful, but the server did not return any data. 
+    205 - Reset Content
+    206 - Partial Content , 207 - Multi Status  , 208 - Already reported
+
+
+  4XX - Client Error
+
+    400 Bad Request: The request cannot be fulfilled due to malformed syntax. 
+    401 Unauthorized: The client fails to provide valid authentication credentials. 
+    403 Forbidden: The server refuses to fulfill the request due to insufficient permissions. 
+    404 Not Found: The requested resource is unavailable on the server. 
+    405 Method Not allowed
+    406 Not Acceptable
+    412 Precondition Failed
+    408 Request Timeout: The client did not produce a request within the server's timeout period. 
+    413 Request Entity Too Large: The upload limit for the API has been exceeded. (Payload too large)
+
+  5xx Server Error	- A 5xx code occurs when a server does not support the functionality required to process a visitor's request
+
+   500 - Internal Server Error
+   501 Not Implemented
+   502 Bad Gateway
+   503 Service Unavailable
+   504 Gateway Timeout
+
+41) What is parallel streams? Java Parallel Streams is a feature of Java 8 and higher, meant for utilizing multiple cores of the processor. Normally any java code has one stream of processing, where it is executed sequentially. Whereas by using parallel streams, we can divide the code into multiple streams that are executed in parallel on separate cores and the final result is the combination of the individual outcomes. The order of execution, however, is not under our control.
+
+- Therefore, it is advisable to use parallel streams in cases where no matter what is the order of execution, the result is unaffected and the state of one element does not affect the other as well as the source of the data also remains unaffected.
+
+We can create parallel stream by two ways.
+1. Method 1: Using parallel() method on a stream
+
+File fileName = new File("M:\\Documents\\Textfile.txt"); 
+  
+        // Create a Stream of string type 
+        // using the lines() method to 
+        // read one line at a time from the text file 
+        Stream<String> text = Files.lines(fileName.toPath()); 
+  
+        // Creating parallel streams using parallel() method 
+        // later using forEach() to print on console 
+        text.parallel().forEach(System.out::println); 
+  
+        // Closing the Stream 
+        // using close() method 
+        text.close();
+Method 2: Using parallelStream() on a Collection
+
+File fileName 
+            = new File("M:\\Documents\\List_Textfile.txt"); 
+  
+        // Reading the lines of the text file by 
+        // create a List using readAllLines() method 
+        List<String> text 
+            = Files.readAllLines(fileName.toPath()); 
+  
+        // Creating parallel streams by creating a List 
+        //  using readAllLines() method 
+        text.parallelStream().forEach(System.out::println); 
+
+42) Methods of stream
+
+43) What is static and default method in java 8?
+
+from java 8 we can define static methods inside interface as well
+
+44) Intermediary operations in Streams are called lazy, meaning they do not execute immediately. They are only evaluated when a terminal operation is invoked.
+
+45) what is intstream and doublestream in java?
+ IntStream: This is a specialized stream designed to work with sequences of primitive int values. It's optimized for performance when dealing with large amounts of integer data.
+DoubleStream: Similarly, this stream is optimized for sequences of primitive double values. It's ideal for numerical computations and statistical analysis.
+
+
 
 
 
