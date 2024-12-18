@@ -777,9 +777,61 @@ X_test=pca.transform(X_test)
 
 -- What is Seq2Seq in NLP? Seq2Seq (Sequence-to-Sequence) is a neural network architecture used in Natural Language Processing (NLP) to convert one sequence of tokens (e.g., words or characters) into another sequence. This is particularly useful for tasks where the input and output have variable lengths and may not directly correspond to each other, such as in machine translation, text summarization, question answering, or speech recognition.
 
+- NLP pipeline
+
+1. Collecting the data
+This step involves bringing in relevant data from different sources. Sources can include both external and internal systems and depends on the domain of the problem. 
+
+2. Cleaning the input text data
+ We use various techniques to clean the data, depending on the domain of the problem. Regular expressions are extensively used at this stage in identifying anomalies in the data and transforming them as required
+
+3. Normalizing the data
+ Normalization of text data includes techniques such as "removal of stop words", "converting all text to a standard case", "stemming/lemmatization", etc.
+
+4.Feature engineering
+ Feature engineering textual data typically involves converting the cleaned and normalized data into vector representations. These vectors can then be used by machine learning algorithms to build models
+
+
+5. Apply machine learning techniques to build models
+Depending on the problem at hand, we can apply different machine learning algorithms. For example, when we are build a spam classifier/Sentiment Analyzer, we would use popular classification algorithms such as Naive Bayes, Decision Trees, etc. If we are building a system that auto-completes user input, then we may use hidden markov models. 
+
+6. Validating the model built
+After building the model, we check it against test data to analyse how the model performs on previously unseen data. If the model performance is satisfactory, we can be more confident in deploying it
+
+7.Deploying the model and making prediction on new data.
+
+Sometimes the text that we want to process and analyse may contain a few extra spaces at the beginning and end. We use the strip() method of Python to get rid of these unwanted spaces
+
+Edit Distance(Concepts):
+The edit distance (also called Levenshtein distance) measures how "different" two strings are. It counts the minimum number of operations (insertion, deletion, substitution) required to make one string equal to another.
+
+Example Calculations
+Edit distance between "cat" and "bat":
+
+Substitute 'c' with 'b' → Distance = 1.
+Edit distance between "kitten" and "sitting":
+
+Substitute 'k' with 's' → "kitten" → "sitten"
+Substitute 'e' with 'i' → "sitten" → "sittin"
+Insert 'g' at the end → "sittin" → "sitting"
+Total distance = 3.
+Edit distance between "lol" and "loll":
+
+Insert 'l' at the end → Distance = 1.
+How It Works in This Code
+The edit distance is used to find words in the English vocabulary that are "close" to the unusual word. The threshold (dist < len(unusual_word) / 2) ensures that only relatively similar words are included as suggestions.
+
+For example:
+
+"lol" (length = 3, threshold = 3/2 = 1.5):
+Words with an edit distance of 1 or less (e.g., "loll") are added as suggestions.
+Possible Output for "lol"
+
 
 ------ Code implementation of NLP 
 
+-- Vocabulary
+The vocabulary of a text is the set of all unique tokens used in it.
 ### import libraries for dataset 
 
 import pandas as pd
