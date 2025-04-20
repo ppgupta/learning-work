@@ -1,0 +1,107 @@
+- GUID stands for Globally Unique Identifier. It's a 128-bit number that's used to identify entities, such as hardware, software, accounts, and documents, in a unique way. GUIDs are commonly used in technology and computing, especially when a unique identifier is required
+
+- Douglas Engelbart was an American inventor whose work beginning in the 1950s led to his patent for the computer mouse, the development of ...
+
+- An extranet is a secure network that allows authorized users from outside an organization to access confidential information from within the organization. They are often used to improve communication and collaboration between an organization and its partners.
+
+- The first Indian web browser was Epic, developed and launched by the Bangalore-based startup Hidden Reflex in 2010: 
+
+- An Analog computer is a type of computer that uses the continuously changeable aspects of physical phenomena such as electrical, mechanical, or hydraulic quantities to model the problem being solved.
+
+- In computing, the bit rate of available or consumed information capacity is called bandwidth. It's typically measured in bits per second (bps) or megabits per second (Mbps). 
+
+
+-The Simple Mail Transfer Protocol (SMTP) is the most common protocol used to send and receive emails over the internet: 
+- The range of the full IP address belongs from 0.0.0.0 to 255.255.255.255.
+
+- What kind of Protocol is used to provide Internet access from mobile?... WAP (Wireless Application Protocol)
+
+- The process of dividing a disk into tracks and sectors is called formatting:
+  - Tracks: The hard disk's platters are divided into concentric tracks.
+  - Sectors: Each track is divided into sectors, which are the smallest physical storage units on the disk. A sector is usually fixed at 512 bytes in size. 
+
+- ENIAC was the first digital computer.
+-First Web Browser was WorldWideWeb later named Nexus.
+
+-CDC 6600 was the first successful supercomputer.
+
+- Shasra T is considered as India’s fastest super computer,  manufactured by IISC Bangalore.
+
+- A plotter is an output device that interprets commands from a computer to make line drawings on paper with one or more automated pens. Unlike a regular printer,  the plotter can draw continuous point-to-point lines directly from vector graphics files or commands
+
+** Two types of printer 
+1. Impact printer : many types
+ -Dot matrix printers: A common type of impact printer that uses a printhead with pins to strike an ink ribbon against the paper. 
+ -Daisy wheel printers: A type of impact printer 
+ -Drum printers: A type of impact printer 
+ -Line chain printers: A type of impact printer 
+ -Band printers: A type of impact printer 
+ -Chain printers 
+
+2. Non – Impact Printers do not touch the paper when creating an image.
+
+  - Inkjet printers
+  - Laser printers
+  - Thermal printer
+
+- Fortran: it is known as formula translation. It is used for scientific application
+
+- COBOL (Common Business Oriented Language )
+- Simula was the first object-oriented programming language. 
+- ROM is non-volatile and the contents are retained even after the power is switched off.
+
+- RAM is referred to as volatile memory and is lost when the power is turned off.
+
+- Semiconductor memory:-such as RAM, ROM, EPROM, and flash memory.
+- Magnetic memory:-such as hard disk, floppy disk and magnetic tapes.
+
+- SQL injection is a code injection technique that might destroy your database. SQL injection is one of the most common web hacking techniques.
+- accessing database legally to extract data is called - End user query tool.
+
+- A router is a device that connects networks of similar protocols.
+- A Bridge/switch is a device that connects networks of different protocols
+
+- Find and replace fn key in Ms word- f5
+
+- Cntrl + alt+ delete is called 3 finger key , cntrl , alt and shift are called mofifier key , 
+
+- A toggle key on a computer keyboard is a key that turns a function on or off, or switches between two functions, with a single keystroke
+- Restart - warm booting , shut down - cold booting
+- Prety good service is used in Email security
+
+- The virus that had spread from software is called as Macro Virus.
+- A retrovirus is a type of computer virus that aims to disable any antivirus or protective software on a computer system: 
+
+- pressing f8 keys 3 times selects sentence.
+- Flash memory / sd card /hard disk these are all part of secondary/tertiary memory
+- A flip-flop or latch is a circuit that can store a single bit of data: 
+- Linux OS was released in 1991. 
+
+- speed of computer is measured in Megahertz or giga hertz
+- In excel names are by default left aligned and numbers are right aligned.
+- ATM machine run on  embedded OS.
+- The address bus, data bus, and control bus are three types of buses in a computer that allow the processor to communicate with other components: 
+
+1.Address Bus: Carries memory addresses from the processor to other components, such as primary storage and input/output devices. The address bus is unidirectional, meaning it moves in one direction. The width of the address bus determines how much memory a system can address. 
+
+2. Data Bus: Carries the data between the processor and other components. The data bus is bidirectional, meaning it moves in two directions. 
+
+3. Control Bus: Carries control signals from the processor to other components, and also carries the clock's pulses. The control bus is unidirectional. The control bus coordinates activity between various devices to prevent data collisions. 
+
+- Bluetooth is called mobile ad hoc network , maximum 7 devices can be connected to one Bluetooth device.
+
+- Tor services is also know as onion services
+
+- Bridge is used in Local area network.
+
+- A worm is a type of malware that replicates itself and spreads across a network: 
+
+-A connection-oriented protocol (COP) is a communication protocol that establishes a reliable connection between two devices before transmitting data.
+  example : TCP
+
+-A connectionless protocol is a communication method that allows data to be sent from one device to another without establishing a prior connection between the two devices. example : http, ip , udp , icmp
+
+- RAID stands for Redundant Array of Independent Disks. It's a technology that combines multiple physical hard disk drives or solid-state drives (SSDs) into one logical storage unit. RAID improves data reliability, performance, and capacity.
+
+- A walkie-talkie is an example of half-duplex transmission:
+
