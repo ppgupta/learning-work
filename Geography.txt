@@ -1,0 +1,803 @@
+
+****************************** Geography  ****************************
+
+
+--------------------chapter 1 -------------------------
+
+
+- Physical geography- Geomorphology , Climatology , Hydrology , Soil Geography
+
+- Geomorphology is devoted to the study of landforms, their evolution and related processes.
+
+- Human Geography - Social/Cultural Geography , Population and Settlement Geography , Economic Geography , Historical Geography , Political Geography , 
+
+- The interface between physical geography and human geography has lead to the development of Biogeography.
+
+- Biogeography included i) Plant Geography ii) Zoo Geography iii) Ecology /Ecosystem iv) Environmental Geography
+
+- Soils are formed through the process of pedogenesis.
+
+- Geography is a discipline of synthesis. It attempts spatial synthesis, and history attempts temporal synthesis.
+
+- Life on the earth appeared around 3.8 billion years before the present.
+
+- 'Eons' are the longest period of time on the geologic time scale, lasting billions of years. 
+
+- Era: A period of time that lasts hundreds of millions of years. Eras are made up of two or more periods. 
+
+- Period: A period of time that is part of an era. 
+
+- Epoch: A period of time that is usually tens of millions of years long. 
+
+------------------- Chapter 3 Interiors of the Earth  -------------
+
+- Why does the earth shake? The release of energy occurs along a fault.
+
+- A fault is a sharp break in the crustal rocks. Rocks along a fault tend to move in opposite direction.
+
+- As the overlying rock strata press them, the friction locks them together. But, their tendency to move apart at some point of time overcomes the friction.
+
+- As a result, the blocks get deformed and eventually, they slide past one another abruptly.
+
+- This causes a release of energy, and the energy waves travel in all directions.
+
+- The point where the energy is released is called the focus of an earthquake or hypocenter.
+
+- The point on the surface, nearest to the focus, is called epicentre.
+
+- Lithosphere refers to the portion of depth up to 200 km from the surface of the earth.
+
+- Earthquake waves are basically of two types — body waves and surface waves. 
+
+- Body waves are generated due to the release of energy at the focus and move in all directions travelling through the body of the earth.
+
+- The body waves interact with the surface rocks and generate new set of waves called surface waves. These waves move along the surface.
+
+- There are two types of body waves. They are called P(primary) and S(secondary)-waves.
+
+- P-waves move faster and are the first to arrive at the surface, they are similar to sound waves(longitudinal). They travel through gaseous, liquid and solid materials.
+
+- S-waves arrive at the surface with some time lag, they can travel only through solid materials. (Transversal)
+
+- The body waves interact with the surface rocks and generate new set of waves called surface waves.(Transversal)
+
+- The surface waves are the last to report on seismograph.
+
+- Surface waves are considered to be the most damaging waves.
+
+- Some specific areas where the waves are not reported. Such a zone is called the ‘shadow zone’.
+
+- It was observed that seismographs located at any distance within 105°  from the epicentre, recorded the arrival of both P and S-waves
+
+- However, the seismographs located beyond 145°  from epicentre, record the arrival of P-waves, but not that of S-waves.
+
+- Thus, a zone between 105°  and 145°  from epicentre was identified as the shadow zone for both the types of waves.
+
+- The entire zone beyond 105°  does not receive S-waves.
+
+* Types of Earthquake: i) Techtonic Earthquake ii) volcanic earthquake
+
+iii) Collapse earthquakes: Due to intense mining activity, sometimes the roofs of underground mines collapse causing minor tremors.
+
+iv) explosion earthquakes   v) Reservoir induced earthquakes 
+
+
+
+- The earthquake events are scaled either according to the magnitude or intensity of the shock.
+
+- The magnitude scale is known as the Richter scale(0-10 scale). The magnitude relates to the energy released during the quake.
+
+- The intensity scale is named after Mercalli, an Italian seismologist.
+
+- The intensity scale takes into account the visible damage caused by the event. The range of intensity scale is from 1-12.
+
+- The effect of tsunami would occur only if the epicenter of the tremor is below oceanic waters and the magnitude is sufficiently high. 
+
+* The Mantle : The portion of the interior beyond the crust is called the mantle.
+
+- The mantle extends from Moho’s discontinuity to a depth of 2,900 km.
+
+- The upper portion of the mantle is called asthenosphere. The word astheno means weak. It is considered to be extending upto 400 km.
+
+- It is the main source of magma that ejects out of volcanic eruption.
+
+- The crust and the uppermost part of the mantle are called lithosphere. Its thickness ranges from 10-200 km. 
+
+- The lower mantle extends beyond the asthenosphere. It is in solid state.
+
+* The Core: The earthquake wave velocities helped in understanding the existence of the core of the earth.
+
+- The core  mantle boundary is located at the depth of 2,900 km.
+
+- The outer core is in liquid state while the inner core is in solid state.
+
+- The density of material at the mantle core boundary is around 5 g/cm3  and at the centre of the earth at 6,300 km, the density value is around 13g/cm3
+
+- The core is made up of very heavy material mostly constituted by nickel and iron. It is sometimes referred to as the 'nife' layer.
+
+* VOLCANOES AND VOLCANIC LANDFORMS:
+
+- The layer below the solid crust is mantle. It has higher density than that of the crust.
+
+- The mantle contains a weaker zone called asthenosphere. from this zone molten rock materials find their way to the surface.
+
+- The material in the upper mantle portion is called magma.
+
+- Once it starts moving towards the crust or it reaches the surface, it is referred to as lava.
+
+- The material that reaches the ground includes lava flows, pyroclastic debris, volcanic bombs, ash and dust and gases such as nitrogen compounds, sulphur compounds and minor amounts of chlorine, hydrogen and argon.
+
+* Types of volcanos: Volcanoes are classified on the basis of nature of eruption and the form developed at the surface.
+ Major types of volcanoes are 
+
+i) Shield Volcanoes : Except the basalt flows, the shield volcanoes are the largest of all the volcanoes on the earth.
+
+- The Hawaiian volcanoes are the most famous shield volcanos.
+
+- These volcanoes are mostly made up of basalt, a type of lava that is very fluid when erupted. For this reason, these volcanoes are not steep.
+
+- They become explosive if somehow water gets into the vent; otherwise, they are characterized by low-explosivity.
+
+ii) Composite Volcanoes (Stratovolcano) : These volcanoes are characterized by eruptions of cooler and more viscous lavas than basalt.
+
+- These volcanoes often result in explosive eruptions. They are common type of volcanoes.
+
+- Along with lava, large quantities of pyroclastic material and ashes find their way to the ground.
+
+iii) Caldera : These are the most explosive of the earth’s volcanoes.
+
+- They are usually so explosive that when they erupt they tend to collapse on themselves rather than building any tall structure.
+
+- The collapsed depressions are called calderas. They are very rare
+
+
+iv) Flood Basalt Provinces : These volcanoes outpour highly fluid lava that flows for long distances.
+
+- Some parts of the world are covered by thousands of sq. km of thick basalt lava flows. thickness can be as much as 50 m.
+
+- The Deccan Traps from India, presently covering most of the Maharashtra plateau, are a much larger flood basalt province.
+
+- They are extremely rare occurred only 20 times in earth history.
+
+v) Mid-Ocean Ridge Volcanoes :These volcanoes occur in the oceanic areas.
+
+- There is a system of mid-ocean ridges more than 70,000 km long that stretches through all the ocean basins. The central portion of this bridge experiences frequent eruptions.
+
+
+* VOLCANIC LANDFORMS: The lava that is released during volcanic eruptions on cooling develops into igneous rocks.
+
+- The cooling may take place either on reaching the surface or also while the lava is still in the crustal portion.
+
+- Depending on the location of the cooling of the lava, igneous rocks are classified as volcanic rocks (cooling at the surface) and plutonic rocks (cooling in the
+crust).
+
+- The lava that cools within the crustal portions assumes different forms. These forms are called intrusive forms.
+ 
+
+* Batholiths: A large body of magmatic material that cools in the deeper depth of the crust develops in the form of large domes.
+- They appear on the surface only after the denudational processes remove the overlying materials.
+
+- They cover large areas, and at times, assume depth that may be several km.
+
+- These are granitic bodies. Batholiths are the cooled portion of magma chambers.
+
+* Lacoliths: These are large dome-shaped intrusive bodies with a level base and connected by a pipe-like conduit from below.
+
+- It can be regarded as the localized source of lava that finds its way to the surface.
+
+- The Karnataka plateau is spotted with domal hills of granite rocks.
+
+* Lapolith: As and when the lava moves upwards, a portion of the same may tend to move in a horizontal direction wherever it finds a weak plane.
+
+- It may get rested in different forms. In case it develops into a saucer shape, concave to the sky body, it is called lapolith.
+
+* Phacolith: A wavy mass of intrusive rocks, at times, is found at the base of synclines or at the top of anticline in folded igneous country.
+
+- Such wavy materials have a definite conduit to source beneath in the form of magma chambers (subsequently developed as batholiths). These are called the phacoliths.
+
+
+* Sills: The near horizontal bodies of the intrusive igneous rocks are called sill or sheet, depending on the thickness of the material. The thinner ones are called sheets while the thick horizontal deposits are called sills.
+
+
+* Dykes :When the lava makes its way through cracks and the fissures developed in the land, it solidifies almost perpendicular to the ground.
+
+- It gets cooled in the same position to develop a wall-like structure. Such structures are called dykes. 
+
+-These are the most commonly found intrusive forms in the western Maharashtra area.
+
+- These are considered the feeders for the eruptions that led to the development of the Deccan traps.
+
+
+------------------- Chapter 4 DISTRIBUTION OF OCEANS AND CONTINENTS  -------------
+
+- 29% continents , 30% oceans
+
+- Alfred Wegener—a German meteorologist, put forth a comprehensive argument in the form of “the continental drift theory” in 1912.
+
+- According to Wegener, all the continents formed a single continental mass and mega ocean surrounded the same.
+
+- The super continent was named PANGAEA, which meant all earth. The mega-ocean was called 'PANTHALASSA'.
+
+- Pangaea first broke into two large continental masses as Laurasia and Gondwanaland forming the northern and southern components respectively.
+
+- Subsequently, Laurasia and Gondwanaland continued to break into various smaller continents that exist today.
+
+
+* Evidence in Support of the Continental Drift
+
+- The Matching of Continents (Jig-Saw-Fit): The shorelines of Africa and South America facing each other have a remarkable and unmistakable match
+
+- Map produced using a computer programme to find the best fit of the Atlantic margin was presented by Bullard in 1964.
+
+- Rocks of Same Age Across the Oceans
+
+
+* Tillite : It is the sedimentary rock formed out of deposits of glaciers.
+
+- At the base of Gondwana system has thick tillite indicating extensive and prolonged glaciation. 
+
+- this succession are found in Africa, Falkland Island, Madagascar, Antarctica and Australia further solidifying  the idea of all these landmass part of one large continent.
+
+* Placer Deposits : The occurrence of rich placer deposits of gold in the Ghana coast and the absolute absence of source rock in the region is an amazing fact.
+
+- The gold bearing veins are in Brazil and it is obvious that the gold deposits of the Ghana are derived from the Brazil plateau when the two continents lay side by side.
+
+- Distribution of Fossils : identical species of plants and animals adapted to living on land or in fresh water are found on either side of the marine barriers
+
+* Force for Drifting : Wegener suggested that the movement responsible for the drifting of the continents was caused by pole-fleeing force and tidal force.
+
+- The polar-fleeing force relates to the rotation of the earth.
+
+- Tidal force was due to gravitational pull of sun and moon.
+
+* Convectional Current Theory : Arthur Holmes in 1930s discussed the possibility of convection currents operating in the mantle portion.
+
+- These currents are generated due to radioactive elements causing thermal differences in the mantle portion.
+
+- Due to these convections current continents got separated. 
+
+- Arthur Holmes was first one to use radioactive dating to determine ages of rocks and minerals.
+
+
+-The ocean floor may be segmented into 3 major divisions based on the depth as well as the forms of relief. These divisions are
+
+i) Continental margins - continental shelf ,continental slope ,continental rise and deep-ocean trench
+
+ii) Deep sea basins - Abyssal plains , a vast plain between continental margins and mic ocean ridges.
+ 
+iii) Mid-ocean ridges - This forms an interconnected chain of mountain system within the ocean.
+
+- Longest mountain chain on earth but submerged in water.
+
+- The mid-ocean ridge is the longest mountain range on Earth, stretching for about 40,390 miles (65,000 kilometers), submerged in water. 
+
+- Andes mountain range is largest mountain range in world with length around 9000 km.
+
+* Sea floor spreading: The idea of seafloor spreading was proposed by Harry Hess in 1960s.
+
+- The concept of sea-floor spreading is a geological process that explains how new oceanic crust is created at mid-ocean ridges and gradually moves away, leading to the expansion of the ocean floor.
+
+- This theory is a key part of the broader theory of plate tectonics.
+
+- The ocean crust rocks are much younger than the continental rocks.
+
+* Plate Tectonics: This theory was first purposed by McKenzie , Parker and  Morgan.
+
+- A tectonic plate (also called lithospheric plate) is a massive, irregularly-shaped slab of solid rock, consisted of both continental and oceanic crust.
+
+- Plates move horizontally over the asthenosphere as rigid units
+
+- Pacific plate is largely an oceanic plate whereas the Eurasian plate may be called a continental plate.
+
+- The theory of plate tectonics proposes that the earth’s lithosphere is divided into seven major and some minor plates.
+
+- Major plates : i) Antarctica and the surrounding oceanic plate
+ii) North American plate         iii) South American plate
+iv) Pacific plate                 v) India-Australia-New Zealand plate
+
+vi) Africa with the eastern Atlantic floor plate  vii) Eurasia and the adjacent oceanic plate.
+
+- Minor plates: i) Cocos plate : Between Central America and Pacific plate
+
+ii) Nazca plate : Between South America and Pacific plate
+
+iii) Arabian plate : Mostly the Saudi Arabian landmass
+
+iv) Philippine plate : Between the Asiatic and Pacific plate
+
+v) Caroline plate : Between the Philippine and Indian plate (North of New Guinea)
+
+vi) Fuji plate : North-east of Australia
+
+vii) The Juan de Fuca plate is a tectonic plate that is subducting beneath the North American plate. It's located off the western coast of North America.
+
+* There are 3 types of plate boundaries
+
+i) Divergent Boundaries: Where new crust is generated as the plates pull away from each other
+
+- The sites where the plates move away from each other are called spreading sites.
+
+- The best-known example of divergent boundaries is the Mid-Atlantic Ridge. Here, the American Plate(s) is/are separated from the Eurasian and African Plates.
+
+ii) Convergent Boundaries: Where the crust is destroyed as one plate dived under another
+
+- The location where sinking of a plate occurs is called a subduction zone.
+
+- There are 3 ways in which convergence can occur. These are: a) between an oceanic and continental plate;
+
+b) between two oceanic plates  and c) between two continental plates.
+
+- Trenches and mountains are formed due to this.
+
+iii) Transform Boundaries : Where the crust is neither produced nor destroyed as the plates slide horizontally past each other.
+
+- Transform faults are the planes of separation generally perpendicular to the mid-oceanic ridges.
+
+- No eruption , Earthquake prone area
+
+- There is a differential movement of a portion of the plate away from the axis of the earth.
+
+* Rates of Plate Movement : The Arctic Ridge has the slowest rate (less than 2.5 cm/yr).
+
+- East Pacific Rise near Easter Island, in the South Pacific about 3,400 km west of Chile, has the fastest rate (more than 15 cm/yr).
+
+-  Heat within the earth comes from two main sources: radioactive decay and residual heat.
+
+* Indian Plate: The Indian plate includes Peninsular India and the Australian continental portions.
+
+- The eastern margin is a spreading site lying to the east of Australia in the form of an oceanic ridge in SW Pacific.
+
+- The Western margin follows Kirthar Mountain of Pakistan.
+
+- The boundary between India and the Antarctic plate is also marked by oceanic ridge (divergent boundary).
+
+- India was a large island situated off the Australian coast, in a vast ocean.
+
+- The Tethys Sea separated it from the Asian continent till about 225 million years ago.
+
+
+
+
+
+------------------- Chapter 5 Landforms    --------------------------------------------
+
+
+
+- About 98% of the total crust of the earth is composed of 8 elements like oxygen, silicon, aluminum, iron, calcium, sodium, potassium and magnesium.
+
+- rest is constituted by titanium, hydrogen, phosphorous, manganese, sulphur, carbon, nickel and other elements.
+
+- malachite - copper ore
+
+* Physical characteristic of Minerals
+
+i) External crystal form  ii) Cleavage iii) Fracture iv) Luster v) Color
+
+vi) Streak vii) Transparency viii) Structure
+
+ix) Hardness: degree of hardness measured from 1-10.
+
+- They are: 1. talc; 2. gypsum; 3. calcite 4. fluorite 5. apatite 6. feldspar 7. quartz; 8. topaz; 9. corundum; 10. diamond.
+
+x) Specific gravity
+
+- Petrology is science of rocks.
+
+- There are 3 types of rocks
+
+i) Igneous:  solidified from magma and lava from interior of earth hence called primary rocks.
+
+- Granite, gabbro, pegmatite, basalt, volcanic breccia and tuff are some of the examples of igneous rocks.
+
+ii) Sedimentary rocks:  the result of deposition of fragments of rocks by exogenous processes
+
+- In many sedimentary rocks, the layers of deposits retain their characteristics even after lithification.
+
+- Hence, we see a number of layers of varying thickness in sedimentary rocks like sandstone, shale etc.
+
+- Depending upon the mode of formation, sedimentary rocks are classified into 3 major groups: 
+
+a) mechanically formed — sandstone, conglomerate, limestone, shale, loess , Tillite , borax , breccia etc. 
+
+b) organically formed — geyserite, chalk, limestone, coal etc.
+
+c) chemically formed —chert, limestone, halite, potash etc.
+
+iii) Metamorphic Rocks: formed out of existing rocks undergoing recrystallisation.
+
+- The word metamorphic means ‘change of form’.
+
+- These rocks form under the action of pressure, volume and temperature (PVT) changes.
+
+- Metamorphism is a process by which already consolidated rocks undergo recrystallisation and reorganization of materials within original rock.
+
+- dynamic metamorphism: No chemical change
+
+- thermal metamorphism : Chemical change occurs
+
+- There are 2 types of thermal metamorphism — contact metamorphism and regional metamorphism.
+
+
+- Metamorphic rocks are classified into 2 major groups — foliated rocks and non-foliated rocks.
+
+- Gneissoid, granite, syenite, slate, schist, marble, quartzite etc. are some examples of metamorphic rocks.
+
+* ROCK CYCLE
+
+- Rocks do not remain in one form for long but may undergo transform.
+
+- Rock cycle is continuous process through which old rocks are transformed into new ones.
+
+- igneous rocks are primary rocks and other rocks (sedimentary and metamorphic) form from these primary rocks.
+
+- Igneous rocks can be changed into metamorphic rocks.
+
+- The fragments derived out of igneous and metamorphic rocks form into sedimentary rocks.
+
+- The crustal rocks (igneous, metamorphic and sedimentary) once formed may be carried down into the mantle (interior of the earth) through subduction process  of plate convergence
+
+- the same melt down due to increase in temperature in the interior and turn into molten magma, the original source for igneous rocks. Thus cycle keeps going.
+
+
+------------------- Chapter 6 Geomorphic process    --------------------------------------------
+
+-  The earth’s surface is being continuously subjected to by external forces originating within the earth’s atmosphere and by internal forces originated from within the earth
+
+- The external forces are known as exogenic forces.
+
+- The internal forces are known as endogenic forces.
+
+- The actions of exogenic forces results in degradation of relief/elevations and filling up(aggradation) of basins/depressions, on the earth’s surface. This overall process is known as gradation.
+
+- The endogenic and exogenic forces causing physical stresses and chemical actions on earth materials and bringing about changes in the configuration of the surface of the earth are known as geomorphic processes.
+
+- Diastrophism and volcanism are endogenic geomorphic processes.
+
+- Weathering, mass wasting, erosion and deposition are exogenic geomorphic processes.
+
+- Any exogenic element of nature (like water, ice, wind, etc.,) capable of acquiring and transporting earth materials can be called a geomorphic agent.
+
+* Endogenic Processes:
+
+- The energy emanating from within the earth is the main force behind endogenic geomorphic processes.
+
+- This energy is mostly generated by radioactivity, rotational and tidal friction and primordial heat from the origin of the earth.
+
+- This energy due to geothermal gradients and heat flow from within induces diastrophism and volcanism in the lithosphere.
+
+* Diastrophism : All processes that move, elevate or build up portions of the earth’s crust come under diastrophism.
+
+- Diastrophism involves crustal deformation without magma eruption.
+
+They include: 
+i) Orogenic processes involving mountain building through severe folding and affecting long and narrow belts of the earth’s crust
+
+ii) Epeirogenic processes involving uplift or warping of large parts of the earth’s crust; 
+
+iii) earthquakes involving local relatively minor movements
+
+iv) plate tectonics involving horizontal movements of crustal plates.
+
+* Difference between Orogenic and Epeirogenic
+
+- In the process of orogeny, the crust is severely deformed into folds.
+
+- Due to epeirogeny, there may be simple deformation.
+
+- Orogeny is a mountain building process whereas epeirogeny is continental building process.
+
+- Through the processes of orogeny, epeirogeny, earthquakes and plate tectonics, there can be faulting and fracturing of the crust.
+
+- All these processes cause pressure, volume and temperature (PVT) changes which in turn induce metamorphism of rocks.
+
+* EXOGENIC PROCESSES
+
+- Temperature and precipitation are the two important climatic elements that control various processes.
+
+- All the exogenic geomorphic processes are covered under a general term, 'denudation'.
+
+- The effects of most of the exogenic geomorphic processes are small and slow and may be imperceptible in a short time span, but will in the long run affect the rocks
+severely due to continued fatigue.
+
+* WEATHERING : Weathering is defined as mechanical disintegration and chemical decomposition of rocks through the actions of various elements of weather and climate.
+
+i) Chemical Weathering process
+
+ii) Physical Weathering Processes : (a) gravitational forces , load and shearing stress
+
+b) Thermal Expasion forces due to temperature changes, crystal growth or animal activity
+
+c) water pressures controlled by wetting and drying cycles
+
+iii) Biological activity and weathering
+
+* SPECIAL EFFECTS OF WEATHERING
+
+Exfoliation : Flaking off of more or less curved sheets of shells from over rocks or bedrock results in smooth and rounded surfaces.
+
+- Exfoliation can occur due to expansion and contraction induced by temperature changes.
+
+- Exfoliation domes and tors result due to unloading and thermal expansion respectively.
+
+- When rocks undergo weathering, some materials are removed through chemical or physical leaching by groundwater and thereby the concentration of remaining
+(valuable) materials increases. 
+
+- Without such a weathering taking place, the concentration of the same valuable material may not be sufficient and economically viable to exploit, process and
+refine. This is what is called enrichment.
+
+* MASS MOVEMENTS
+
+- These movements transfer the mass of rock debris down the slopes under the direct influence of gravity.
+
+- weathering is not a pre-requisite for mass movement though it aids mass movements.
+
+- Mass movements are aided by gravity and no geomorphic agent like running water, glaciers, wind, waves and currents participate in the process of mass movements.
+
+- Heave (heaving up of soils due to frost growth and other causes), flow and slide are the three forms of movements.
+
+* Land Slides : Depending upon the type of movement of materials several types are identified in this category
+
+i) Slump is slipping of one or several units of rock debris with a backward rotation with respect to the slope over which the movement takes place.(due to inertia)
+
+ii) Rapid rolling or sliding of earth debris without backward rotation of mass is known as debris slide.
+
+iii) Debris fall is nearly a free fall of earth debris from a vertical or overhanging face.
+
+iv) Sliding of individual rock masses down bedding, joint or fault surfaces is rockslide.
+
+v) Rock fall is free falling of rock blocks over any steep slope keeping itself away from the slope.
+
+
+- Weathering, mass-wasting and erosion are degradational processes.
+
+- A debris avalanche is a rapid flow mass movement. It's a type of landslide that occurs when an unstable slope collapses and debris moves down a steep slope.
+
+* how soil formation takes place?
+
+- Soil formation or pedogenesis depends first on weathering. It is this weathering mantle (depth of the weathered material) which is the basic input for soil to form. 
+
+- First, the weathered material or transported deposits are colonized by bacteria and other inferior plant bodies like mosses and lichens.
+
+- Also, several minor organisms may take shelter within the mantle and deposits.
+
+- The dead remains of organisms and plants help in humus accumulation.
+
+- Minor grasses ,ferns may start growing
+
+- bushes and trees will start growing through seeds brought in by birds and wind.
+
+- mass of material becomes porous and sponge-like with a capacity to retain water and to permit the passage of air and finally a mature soil, a complex mixture of mineral and organic products forms.
+
+- Pedology is soil science
+
+- Five basic factors control the formation of soils:
+i) parent material ii) topography iii) climate iv) biological activity v) time.
+
+- In wet equatorial climates ,not only calcium, sodium, magnesium, potassium etc. but also a major part of silica is removed from the soil due to heavy rainfall.
+
+- Removal of silica from the soil is known as desilication.
+
+- In dry climates,  evaporation exceeds precipitation and hence ground water is brought up to the surface by capillary action and in the process the water evaporates leaving behind salts in the soil.
+
+- Such salts form into a crust in the soil known as hardpans.
+
+- In tropical climates and in areas with intermediate precipitation conditions, calcium carbonate nodules (kanker) are formed.
+
+- Bacteria and other soil organisms take gaseous nitrogen from the air and convert it into a chemical form that can be used by plants. This process is known as
+nitrogen fixation.
+
+- Rhizobium, a type of bacteria, lives in the root nodules of leguminous plants and fixes nitrogen beneficial to the host plant.
+
+* Why are time, topography and parent material considered as passive control factors in soil formation?
+- Time, topography, and parent material are considered "passive" control factors in soil formation because they primarily influence the process of soil development by providing the foundation or starting point, but do not actively participate in the chemical and biological reactions that transform the soil
+
+- essentially, they set the stage for the active factors like climate and organisms to work upon, rather than directly causing changes themselves. 
+
+------------------- Chapter 7 Lanforms and their evolution   --------------------------------------------
+
+- what is a landform? In simple words, small to medium tracts or parcels of the earth’s surface are called landforms.
+
+-  A rill is a small, narrow channel formed on the surface of soil by running water, typically after heavy rainfall.
+
+- Rills are shallow (usually a few centimeters deep).
+
+- A gully is a deeper and larger channel formed when rills merge and water erosion intensifies.
+
+- Gullies are larger and deeper than rills, often several meters deep and wide.
+
+- Peneplain = a nearly flat land formed by erosion over millions of years.
+
+- Monadnocks = the leftover, harder pieces of land that resist erosion and stick out from the flat plain.
+
+- A gorge is a deep valley with very steep to straight sides.
+
+- A gorge is almost equal in width at its top as well as its bottom. 
+
+- A canyon is characterized by steep steplike side slopes and may be as deep as a gorge.
+
+- A canyon is wider at its top than at its bottom. In fact, a canyon is a variant of gorge. 
+
+- Large and deep holes at the base of waterfalls are called plunge pools.
+
+- Meanders are found mostly in floodplains and delta plains.
+
+- But very deep and wide meanders can also be found cut in hard rocks. Such meanders are called incised or entrenched meanders.
+
+- River terraces are flat, step-like landforms found along the sides of a river valley.
+
+- Paired Terraces are found at the same height on both sides of the river.
+
+- Unpaired Terraces are found at different heights on each side of the river.
+
+- Deposition develops a floodplain just as erosion makes valleys. Floodplain is a major landform of river deposition.
+
+- Natural levees and point bars are some of the important landforms associated with floodplains.
+
+- Natural levees are found along the banks of large rivers.
+
+- Point bars are also known as meander bars. They are found on the concave side of meanders of large rivers.
+
+- Point bars are almost uniform in profile and in width and contain mixed sizes of sediments.
+
+- Coriolis force is also responsible for formation of meanders in river in plains.
+
+-  As meanders grow into deep loops, the same may get cut-off due to  erosion at the inflection points and are left as ox-bow lakes.
+
+- Any limestone or dolomitic region showing typical landforms produced by the action of groundwater through the processes of solution and deposition is called Karst topography.
+
+- It is named  after the typical topography developed in limestone rocks of Karst region in the Balkans adjacent to Adriatic sea.
+
+- Solution refers to the chemical weathering process where water dissolves soluble rocks, especially limestone, dolomite, or gypsum.
+
+- Small to medium sized round to sub-rounded shallow depressions called swallow holes form on the surface of limestones through solution.
+
+- Sinkholes are very common in limestone/ karst areas.
+
+- A sinkhole is an opening more or less circular at the top and funnel-shapped towards the bottom.
+
+- Lapies refers to a rugged, grooved, and irregular rocky surface found in limestone regions. It forms due to the action of chemical weathering and erosion by rainwater.
+
+
+- The term doline is sometimes used to refer the collapse sinks.
+
+- Gangotri glacier feeds Bhagirathi river and Alkapuri glacier feeds Alaknanda river.
+
+- Glaciers scrape and grind the soil and rocks beneath them, a process called abrasion.
+
+- They can also pluck rocks from the ground and carry them along, which is called plucking.
+
+* Erosional Landforms in Glacial region
+
+1. Cirque : Cirques are the most common of landforms in glaciated mountains. 
+
+- They are deep, long and wide troughs or basins with very steep concave to vertically dropping high walls at its head as well as sides.
+
+- A lake of water can be seen quite often within the cirques after the glacier disappears. Such lakes are called cirque or tarn lakes.
+
+2. Horns :Horns form through head ward erosion of the cirque walls.
+
+- The highest peak in the Alps, Matterhorn and the highest peak in the Himalayas, Everest are  horns formed through headward erosion of radiating cirques.
+
+3. Glacial Valley
+
+- A fjord is a deep, narrow, and elongated sea inlet, often surrounded by steep cliffs or mountains. 
+
+- Fjords are created by glacier erosion and are some of the most dramatic and beautiful landscapes on Earth.
+
+* Depositional Landforms
+
+- The unassorted coarse and fine debris dropped by the melting glaciers is called glacial till.
+
+- Streams form by melting ice at the bottom, sides or lower ends of glaciers. 
+
+-  Some amount of rock debris gets carried by such meltwater streams is washed down and deposited.
+
+- Such glacio-fluvial deposits are called outwash deposits.
+
+* Moraines : They are long ridges of deposits of glacial till.
+3 types of moraines: i) Terminal moraines are long ridges of debris deposited at the end (toe) of the glaciers.
+
+ii) Lateral moraines form along the sides parallel to the glacial valleys.
+
+iii) The moraine in the centre of the glacial valley flanked by lateral moraines is called medial moraine.
+
+Ground moraines.
+
+
+* Eskers : An esker is a long, winding ridge of sand, gravel, and other sediments that forms in a glacial environment.
+
+- It looks like a natural snake-like hill and is created by streams of meltwater flowing beneath a glacier.
+
+- When the glacier fully melts, the deposited sediments remain as a ridge, marking the path where the subglacial river once flowed.
+
+* Outwash Plains :
+ 
+- The plains at the foot of the glacial mountains or beyond the limits of continental ice sheets are covered with glacio-fluvial deposits.
+
+
+* Drumlins : Drumlins are smooth oval shaped ridge-like features composed mainly of glacial till with some masses of gravel and sand.
+
+- One end of the drumlins facing the glacier called the stoss end is blunter and steeper than the other end called tail.
+
+
+- There are two types of coasts: i) high, rocky coasts (submerged coasts)
+
+ii) low, smooth and gently sloping sedimentary coasts (emerged coasts).
+
+* HIGH ROCKY COASTS : Along the high rocky coasts, the rivers appear to have been drowned with highly irregular coastline.
+
+- Fiords are present. Erosional features dominates.
+
+- The hill sides drop off sharply into the water. Shores do not show any depositional landforms initially.
+
+- Bars are submerged features and when bars show up above water, they are called barrier bars.
+
+- Barrier bar which get keyed up to the headland of a bay is called a spit.
+
+- When barrier bars and spits form at the mouth of a bay and block it, a lagoon forms.
+
+- The lagoons would gradually get filled up by sediments from the land giving rise to a coastal plain.
+
+- the coastal off-shore bars offer the first buffer or defense against storm or tsunami by absorbing most of their destructive force.
+
+* LOW SEDIMENTARY COASTS : Along low sedimentary coasts the rivers appear to extend their length by building coastal plains and deltas.
+
+- The land slopes gently into the water. Marshes and swamps may abound along the coasts.
+
+- Depositional features dominate.
+
+- The west coast of our country is a high rocky retreating coast. Erosional forms dominate in the west coast.
+
+- The east coast of India is a low sedimentary coast. Depositional forms dominate in the east coast.
+
+- Beaches are temporary features.
+
+- Beaches called shingle beaches contain excessively small pebbles and even cobbles.
+
+* Deserts Landforms
+
+- Gently inclined rocky floors close to the mountains at their foot with or without a thin cover of debris, are called pediments.
+
+- An inselberg or monadnock is an isolated rock hill, knob, ridge, or small mountain that rises abruptly from a gently sloping or virtually level surrounding plain.
+
+- It is lone mountain or hill sticking out of a flat land because it resisted erosion while everything else around it got worn away.
+
+- High relief in desert areas is reduced to low featureless plains by erosion process is called pediplains.
+
+* Playas : Plains are by far the most prominent landforms in the deserts.
+
+- A playa is a dry, flat-bottomed desert basin that temporarily fills with water after rainfall but quickly evaporates, leaving behind a crust of salt, silt, or clay. It is also called a dry lake or salt pan.
+
+- Forms in deserts or semi-arid regions.
+
+- The playa plain covered up by salts is called alkali flats.
+
+- Deflation hollows and caves are desert landforms.
+
+- Mushroom rock ( pedestal rock): It is a naturally occurring rock formation with a narrow base and a wider top, resembling a mushroom.
+
+- These unique formations are created by wind erosion (Aeolian processes) over thousands or even millions of years. It if found in Deserts.
+
+* Depositional Landforms in deserts
+
+i) Sand dunes : Dry hot deserts are good places for sand dune formation.
+
+- Obstacles like rocks, vegetation or another dunes  initiate dune formation.
+
+- There are many types of dune :
+ i) Crescent shaped dunes called barchans with the points or wings directed away from wind direction.
+
+ii) Parabolic dunes form when sandy surfaces are partially covered with vegetation.
+
+- That means parabolic dunes are reversed barchans with wind direction being the same.
+
+iii)  Seif is similar to barchan with a small difference. Seif has only one wing or point.
+
+- The lone wings of seifs can grow very long and high.
+
+iv) Longitudinal dunes form when supply of sand is poor and wind direction is constant. They are long but less height.
+
+v) Transverse dunes are aligned perpendicular to wind direction. They may be very long and low in height.
+
+- When sand is plenty, quite often, the regular shaped dunes coalesce and lose their individual characteristics.
+
